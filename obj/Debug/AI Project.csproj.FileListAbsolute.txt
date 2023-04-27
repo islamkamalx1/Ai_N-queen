@@ -1,0 +1,21 @@
+D:\AI Project\bin\Debug\AI Project.exe.config
+D:\AI Project\bin\Debug\AI Project.exe
+D:\AI Project\bin\Debug\AI Project.pdb
+D:\AI Project\obj\Debug\AI Project.csproj.AssemblyReference.cache
+D:\AI Project\obj\Debug\AI_Project.Form1.resources
+D:\AI Project\obj\Debug\AI_Project.Properties.Resources.resources
+D:\AI Project\obj\Debug\AI Project.csproj.GenerateResource.cache
+D:\AI Project\obj\Debug\AI Project.csproj.CoreCompileInputs.cache
+D:\AI Project\obj\Debug\AI Project.exe
+D:\AI Project\obj\Debug\AI Project.pdb
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\bin\Debug\AI Project.exe.config
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\bin\Debug\AI Project.exe
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\bin\Debug\AI Project.pdb
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\obj\Debug\AI Project.csproj.AssemblyReference.cache
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\obj\Debug\AI Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\obj\Debug\AI_Project.Form1.resources
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\obj\Debug\AI_Project.Properties.Resources.resources
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\obj\Debug\AI Project.csproj.GenerateResource.cache
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\obj\Debug\AI Project.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\obj\Debug\AI Project.exe
+C:\Users\Laptop Shop\Downloads\Telegram Desktop\N-Queen-problem1.1-main\obj\Debug\AI Project.pdb
